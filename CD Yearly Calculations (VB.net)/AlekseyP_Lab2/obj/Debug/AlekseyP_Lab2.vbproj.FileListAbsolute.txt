@@ -1,0 +1,48 @@
+C:\Users\przhe\Desktop\AlekseyP_Lab2\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.exe.config
+C:\Users\przhe\Desktop\AlekseyP_Lab2\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.exe
+C:\Users\przhe\Desktop\AlekseyP_Lab2\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.pdb
+C:\Users\przhe\Desktop\AlekseyP_Lab2\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.xml
+C:\Users\przhe\Desktop\AlekseyP_Lab2\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.vbprojAssemblyReference.cache
+C:\Users\przhe\Desktop\AlekseyP_Lab2\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.Form1.resources
+C:\Users\przhe\Desktop\AlekseyP_Lab2\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.Resources.resources
+C:\Users\przhe\Desktop\AlekseyP_Lab2\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.vbproj.GenerateResource.cache
+C:\Users\przhe\Desktop\AlekseyP_Lab2\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.vbproj.CoreCompileInputs.cache
+C:\Users\przhe\Desktop\AlekseyP_Lab2\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.exe
+C:\Users\przhe\Desktop\AlekseyP_Lab2\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.xml
+C:\Users\przhe\Desktop\AlekseyP_Lab2\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.pdb
+C:\Users\przhe\Desktop\CD Yearly Calculator\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.exe.config
+C:\Users\przhe\Desktop\CD Yearly Calculator\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.exe
+C:\Users\przhe\Desktop\CD Yearly Calculator\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.pdb
+C:\Users\przhe\Desktop\CD Yearly Calculator\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.xml
+C:\Users\przhe\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.vbprojAssemblyReference.cache
+C:\Users\przhe\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.Form1.resources
+C:\Users\przhe\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.Resources.resources
+C:\Users\przhe\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.vbproj.GenerateResource.cache
+C:\Users\przhe\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.vbproj.CoreCompileInputs.cache
+C:\Users\przhe\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.exe
+C:\Users\przhe\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.xml
+C:\Users\przhe\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.pdb
+C:\Users\surfacepro3\Desktop\CD Yearly Calculator\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.exe.config
+C:\Users\surfacepro3\Desktop\CD Yearly Calculator\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.exe
+C:\Users\surfacepro3\Desktop\CD Yearly Calculator\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.pdb
+C:\Users\surfacepro3\Desktop\CD Yearly Calculator\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.xml
+C:\Users\surfacepro3\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.vbprojAssemblyReference.cache
+C:\Users\surfacepro3\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.Form1.resources
+C:\Users\surfacepro3\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.Resources.resources
+C:\Users\surfacepro3\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.vbproj.GenerateResource.cache
+C:\Users\surfacepro3\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.vbproj.CoreCompileInputs.cache
+C:\Users\surfacepro3\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.exe
+C:\Users\surfacepro3\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.xml
+C:\Users\surfacepro3\Desktop\CD Yearly Calculator\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.pdb
+C:\Users\surfacepro3\Desktop\CD Yearly Calculations\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.exe.config
+C:\Users\surfacepro3\Desktop\CD Yearly Calculations\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.exe
+C:\Users\surfacepro3\Desktop\CD Yearly Calculations\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.pdb
+C:\Users\surfacepro3\Desktop\CD Yearly Calculations\AlekseyP_Lab2\bin\Debug\AlekseyP_Lab2.xml
+C:\Users\surfacepro3\Desktop\CD Yearly Calculations\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.vbprojAssemblyReference.cache
+C:\Users\surfacepro3\Desktop\CD Yearly Calculations\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.Form1.resources
+C:\Users\surfacepro3\Desktop\CD Yearly Calculations\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.Resources.resources
+C:\Users\surfacepro3\Desktop\CD Yearly Calculations\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.vbproj.GenerateResource.cache
+C:\Users\surfacepro3\Desktop\CD Yearly Calculations\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.vbproj.CoreCompileInputs.cache
+C:\Users\surfacepro3\Desktop\CD Yearly Calculations\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.exe
+C:\Users\surfacepro3\Desktop\CD Yearly Calculations\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.xml
+C:\Users\surfacepro3\Desktop\CD Yearly Calculations\AlekseyP_Lab2\obj\Debug\AlekseyP_Lab2.pdb
