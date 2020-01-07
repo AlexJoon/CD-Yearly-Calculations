@@ -1,5 +1,4 @@
 # CD-Yearly-Calculations
-CD Yearly Calculator w/ different Currencies.
 
 VB.NET Program that calculates an Initial Deposit ($) with a set yearly Interest Rate (%) that the user adds through user input textboxes on the UI.
 
